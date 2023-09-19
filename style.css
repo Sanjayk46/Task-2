@@ -1,0 +1,749 @@
+img{
+    width: 1440px;
+   height: 927px; 
+   /* width: 60%;
+   height: 100%; */
+   opacity: 0.9;
+   position:relative;
+   }
+   .paracls{
+       position: absolute;
+       width: 1108px;
+   height: 89px;
+   top: 387px;
+   left: 41px;
+   font-family: Poppins;
+   font-size: 40px;
+   font-weight: 700;
+   line-height: 118px;
+   letter-spacing: -0.04em;
+   text-align: left;
+   color: rgba(75, 64, 197, 1);
+   ;
+   }
+   .paracls2{
+       width: 757px;
+   height: 47px;
+   top: 476px;
+   left: 50px;
+   margin-top: 20px;
+   font-family: Poppins;
+   font-size: 28px;
+   font-weight: 700;
+   line-height: 48px;
+   letter-spacing: 0em;
+   text-align: left;
+   color: rgba(255, 255, 255, 1);
+   position: absolute;
+   
+   }
+   .buttoncls{
+       width: 200.01px;
+   height: 75.88px;
+   top: 549px;
+   left: 50px;
+   border-radius: 13.3px;
+   position:absolute;
+   font-family: Poppins;
+   font-size: 15px;
+   font-weight: 500;
+   line-height: 36px;
+   letter-spacing: 0em;
+   text-align: center;
+   background-color: rgba(75, 64, 197, 1);
+   color: rgba(255, 241, 218, 1);
+   border: 1px solid rgba(75, 64, 197, 1);
+   margin-top: 30px;
+   }
+   p{
+       text-align: center;
+   }
+   .containercls{
+       width: 1279px;
+   height: 672.05px;
+   /* padding-top: 1004px; */
+   padding-left: 75px
+   
+   }
+   .headcls{
+       position: absolute;
+       width: 314px;
+   height: 45px;
+   top: 48px;
+   left: 45px;
+   border: 1px;
+   font-family: Peralta;
+   font-size: 40px;
+   font-weight: 400;
+   line-height: 52px;
+   letter-spacing: 0em;
+   text-align: left;
+   }
+   .headcls2{
+       width: 148px;
+       height: 34px;   
+   top: 45px;
+   left: 334px;
+   padding: 8px;
+   gap: 8px;
+   font-family: Poppins;
+   font-size: 20px;
+   font-weight: 700;
+   line-height: 34px;
+   letter-spacing: 0em;
+   text-align: center;
+   position: absolute;
+   
+   }
+   .headcls3{
+   top: 45px;
+   left: 527px;
+   padding: 8px;
+   gap: 8px;
+   width: 74px;
+   height: 34px;
+   font-family: Poppins;
+   font-size: 20px;
+   font-weight: 700;
+   line-height: 34px;
+   letter-spacing: 0em;
+   text-align: center;
+   position: absolute;
+   }
+   .headcls4{
+   width: 79px;
+   height: 34px;    
+   top: 45px;
+   left: 676px;
+   padding: 8px;
+   gap: 8px;
+   font-family: Poppins;
+   font-size: 20px;
+   font-weight: 700;
+   line-height: 34px;
+   letter-spacing: 0em;
+   text-align: center;
+   position: absolute;
+   }
+   .headcls5{
+   top: 45px;
+   left: 817px;
+   padding: 8px;
+   gap: 8px;
+   width: 108px;
+   height: 34px;
+   font-family: Poppins;
+   font-size: 20px;
+   font-weight: 700;
+   line-height: 34px;
+   letter-spacing: 0em;
+   text-align: left;
+   position: absolute;
+   
+   }
+   .buttoncls2{
+   /* .width: Fixed (107px)
+   height: Fixed (40px) */
+   width: 100px;
+   height: 34px;
+   top: 50px;
+   left: 947px;
+   padding: 8px, 20px, 8px, 20px;
+   border-radius: 8px;
+   border: 1px;
+   gap: 8px;
+   position: absolute;
+   background-color:  rgba(236, 104, 44, 1);
+   color: white;
+   }
+   .buttoncls3{
+   width: 100px;
+   height: 34px;    
+   top: 50px;
+   left: 1091px;
+   padding: 8px, 20px, 8px, 20px;
+   border-radius: 8px;
+   border: 1px;
+   gap: 8px;
+   position: absolute;
+   background-color:  rgba(236, 104, 44, 1);
+   color: white;
+   }
+   /* section-2 catagerory */
+   h2{
+       width: 270px;
+       height: 34px;
+       top: 1004px;
+       left: 579px;
+       font-family: Poppins;
+       padding-top: 50px;
+   font-size: 32px;
+   font-weight: 700;
+   text-align: center;
+   padding-left: 550px;
+   color: rgba(75, 64, 197, 1);
+   }
+   .paracls3{
+       width: 898px;
+   height: 81px;
+   top: 1078px;
+   left: 308px;
+   font-family: Poppins;
+   margin-left: 150px;
+   padding-left: 150px;
+   padding-top: 50px;
+   font-size: 64px;
+   font-weight: 700;
+   line-height: 96px;
+   letter-spacing: 0em;
+   text-align: center;
+   color:  rgba(20, 24, 62, 1);
+   }
+   .imgantcls{
+       width: 78.27px;
+       height: 87.73px;
+       /* top: 1293.78px; */
+       left: 102.16px;
+       padding: 0px, 0px, 0px, 0px;
+       
+   }
+   .contentcls{
+       padding-top: 100px;
+   }
+   .paracls4{
+       width: 226px;
+   height: 145px;
+   top: 1472px;
+   left: 84px;
+   padding-top: 30px;
+   font-family: Poppins;
+   font-size: 20px;
+   font-weight: 400;
+   line-height: 35px;
+   letter-spacing: 0em;
+   text-align: center;
+   color: black;
+   }
+   .paracls6{
+    width: 217px;
+height: 166px;
+font-family: Poppins;
+font-size: 20px;
+padding-top: 35px;
+font-weight: 400;
+line-height: 35px;
+letter-spacing: 0em;
+text-align: center;
+color: black;
+   }
+   .paracls7{
+    Width:253px;
+Height:34px;
+Top:1422px;
+Left:75px;
+padding-top: 50px;
+font-family: Poppins;
+font-size: 24px;
+font-weight: 500;
+line-height: 36px;
+letter-spacing: 0em;
+text-align: center;
+color: black;
+}
+   .paracls5{
+       Width:253px;
+   Height:34px;
+   Top:1422px;
+   Left:75px;
+   padding-top: 20px;
+   font-family: Poppins;
+   font-size: 24px;
+   font-weight: 500;
+   line-height: 36px;
+   letter-spacing: 0em;
+   text-align: center;
+   color: black;
+   }
+   .imgantcls2{
+       width: 279.29px;
+   height: 322.15px;
+   /* top: 1266.49px; */
+   left: 354.58px;
+   padding-left: 150px;
+   padding-bottom: 240px;
+   /* angle: 33.57 deg; */
+   transform:rotate( -10.57deg);
+   position:absolute;
+   }
+   .imgantcls3{
+       width: 58.64px;
+   height: 61.41px;
+   /* top: 1352.7px; */
+   padding-bottom: -100px;
+   left: 512px;
+   border-radius: 23.94px, 6.65px, 13.3px, 6.65px;
+   transform: rotate(0);
+   position: absolute;
+   }
+   .imgmiccls{
+       width: 75.59px;
+   height: 103px;
+   /* top: 1282px; */
+   left: 921.41px;
+   }
+   .cardmiccls{
+       width: 313.15px;
+   height: 393.54px;
+   /* padding-top: 50px;
+   padding-left: 120px; */
+   /* top: 1232px; */
+   left: 593.05px;
+   border-radius: 47.88px;
+   box-shadow: 5px 5px rgba(0, 0, 0, 0.02);
+   
+   }
+   /*  */
+   .topheadcls{
+       /* width: 179px;
+   height: 158px; */
+   /* padding-left: 59px; */
+   padding-top: 80px;
+   font-family: Poppins;
+   font-size: 32px;
+   font-weight: 700;
+   text-align: center;
+   color: rgba(75, 64, 197, 1);
+   }
+   .paraheadcls{
+       font-family: Poppins;
+   font-size: 62px;
+   font-weight: 700;
+   line-height: 93px;
+   letter-spacing: 0em;
+   text-align: center;
+   
+   }
+   .imgtripcls{
+       width: 300.66px;
+   height: 507.87px;
+   /* margin-right: -40px; */
+   margin-right: 2px;
+   }
+   .cardtripcls{
+   left: 23.33px;
+   border-radius: 31.92px;
+   
+   }
+   .cardcls{
+    width: 325.99px;
+    height: 130.92px;
+    margin-top: -300px;
+    border-bottom-left-radius: 31.92px;
+    border-bottom-right-radius: 31.92px;
+    box-shadow: 0px 5px 10px #00000001;
+    /* border-end-end-radius: 0px, 0px, 31.92px, 31.92px; */
+    margin-left: 14px;
+  
+   }
+   .cartextcls{
+    font-family: Poppins;
+font-size: 20px;
+font-weight: 500;
+padding-left: 20px;
+text-align: left;
+}
+.greececardcls{
+ width: 443.4px;
+height: 479.35px; 
+border-radius: 31.92px; 
+box-shadow: 0px -4px 6px rgba(75, 64, 197, 1);
+box-shadow: 50px -20px 100px 10px rgb(129, 124, 182);
+}
+.cartextcls2{
+    font-family: Poppins;
+font-size: 18px;
+font-weight: 500;
+padding-left: 80px;
+margin-top: -10px;
+}
+.cardcls2{
+    width: 300.99px;
+    height: 130.92px;
+    margin-top: -250px;
+    border-bottom-left-radius: 31.92px;
+    border-bottom-right-radius: 31.92px;
+    /* border-end-end-radius: 0px, 0px, 31.92px, 31.92px; */
+    margin-left: 14px;
+}
+/* section-4 trip and fast */
+.tripcls{
+width: 204px;
+height: 32px;
+font-family: Poppins;
+font-size: 24px;
+font-weight: 600;
+line-height: 36px;
+}
+.tripcls2{
+    width: 686px;
+height: 155px;
+font-family: Poppins;
+font-size: 64px;
+font-weight: 700;
+text-align: left;
+color: #14183E;
+}
+.choosecls{
+    Width:268px;
+    Height:24px;
+font-family: Poppins;
+font-size: 24px;
+font-weight: 700;
+line-height: 30px;
+letter-spacing: 0em;
+text-align: left;
+color: #5E6282;
+}
+.choosecls2{
+    width: 448px;
+height: 47px;
+font-family: Poppins;
+font-size: 18px;
+font-weight: 400;
+line-height: 22px;
+letter-spacing: 0em;
+text-align: left;
+color:  #5E6282;
+padding-top: 10px;
+}
+/* .choosecls3{
+    width: 448px;
+height: 47px;
+font-family: Poppins;
+font-size: 18px;
+font-weight: 400;
+line-height: 22px;
+letter-spacing: 0em;
+text-align: left;
+color:  #5E6282;
+padding-top: 10px;
+} */
+.choosecls4{
+width: 405px;
+height: 23px;
+font-family: Poppins;
+font-size: 24px;
+font-weight: 700;
+line-height: 30px;
+letter-spacing: 0em;
+text-align: left;
+color: #5E6282;
+}
+.greececls{
+    width: 218px;
+height: 27px;
+font-family: Poppins;
+font-size: 24px;
+font-weight: 500;
+line-height: 30px;
+letter-spacing: 0.015em;
+text-align: left;
+padding-top: 40px;
+
+}
+.vl{
+    border-left: 1.33px solid #84829A;
+    /* margin-left: 20px; */
+    height: 20px;
+}
+.junecls{
+    width: 105.41px;
+height: 23.42px;
+font-family: Poppins;
+font-size: 21px;
+font-weight: 500;
+line-height: 26px;
+letter-spacing: -0.005em;
+text-align: left;
+color: #84829A;
+}
+.robincls{
+    width: 165.78px;
+height: 23.42px;
+font-family: Poppins;
+font-size: 21px;
+font-weight: 500;
+line-height: 26px;
+letter-spacing: -0.005em;
+text-align: left;
+color: #84829A;
+margin-left: -30px;
+}
+.Ongoingcls1{
+    width: 107px;
+height: 21px;
+font-family: Poppins;
+padding-left: 20px;
+font-size: 19px;
+font-weight: 500;
+line-height: 23px;
+letter-spacing: -0.035em;
+text-align: left;
+color:  #84829A;
+}
+.Ongoingcls2{
+    width: 200px;
+height: 27px;
+font-family: Poppins;
+font-size: 24px;
+font-weight: 500;
+line-height: 30px;
+letter-spacing: -0.015em;
+text-align: left;
+padding-left: 20px;
+}
+.Ongoingcls3{
+    font-family: Poppins;
+font-size: 19px;
+font-weight: 500;
+line-height: 23px;
+letter-spacing: -0.055em;
+text-align: left;
+padding-left: 20px;
+}
+mark{
+    font-family: Gilroy-ExtraBold;
+font-size: 19px;
+line-height: 23px;
+letter-spacing: -0.055em;
+text-align: left;
+color: #8A79DF;
+background-color: white;
+}
+.peoplecls{
+    width: 151.36px;
+height: 23.42px;
+font-family: Poppins;
+font-size: 21px;
+font-weight: 500;
+line-height: 26px;
+letter-spacing: -0.02em;
+text-align: left;
+color: #84829A;
+
+}
+/* section-4 Why choose us */
+.whycls{
+    width: 858.49px;
+height: 199.28px;
+margin-left: 287.6px;
+margin-top: 80px;
+margin-bottom: 100px;
+}
+.whycls2{
+    font-family: Poppins;
+font-size: 40px;
+font-weight: 700;
+line-height: 72px;
+letter-spacing: 0em;
+text-align: center;
+}
+.whycls3{
+    font-family: Poppins;
+font-size: 24px;
+font-weight: 400;
+line-height: 43px;
+letter-spacing: 0em;
+text-align: center;
+color: #2C2D32;
+}
+.Hotelscls{
+    width: 380px;
+height: 365px;
+border-radius: 20px;
+margin-left: 10px;
+box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+.Hotelscls2{
+    width: 327px;
+height: 43px;
+padding-top: 60px;
+font-family: Poppins;
+font-size: 30px;
+font-weight: 500;
+line-height: 45px;
+margin-left: 30px;
+}
+.Hotelscls3{
+    width: 325px;
+height: 136px;
+padding-top:80px ;
+font-family: Poppins;
+font-size: 20px;
+font-weight: 400;
+line-height: 36px;
+letter-spacing: 0em;
+text-align: center;
+margin-left: 30px;
+
+}
+.starcls{
+    margin-top: -12px; 
+    margin-left: 170px; 
+    background-color: #4B40C5;
+    width: 36px;
+    border-radius: 20px;
+height: 36px;
+}
+.starcls2{
+    margin-top: -12px; 
+    margin-left: 170px; 
+    background-color: #F0BB1F;
+    width: 36px;
+    border-radius: 20px;
+height: 36px;
+}
+.starcls3{
+    margin-top: -12px; 
+    margin-left: 170px; 
+    background-color: #F15A2B;
+    width: 36px;
+    border-radius: 20px;
+height: 36px;
+}
+/* section-5 subscripe */
+.subscribecls{
+    width: 1273.58px;
+height: 454.79px;
+border: 1.33px;
+margin-top: 100px;
+background-color: #DFD7F9;
+margin-left: 30px;
+padding-right: 50px;
+}
+.subscribecls2{
+    width: 991px;
+    height: 161px;
+    font-family: Poppins;
+    padding-top: 100px;
+    margin-left: 100px;
+font-size: 32px;
+font-weight: 600;
+line-height: 72px;
+letter-spacing: 0em;
+text-align: center;
+color:#5E6282;
+    
+}
+.btndesign{
+    width: 157.77px;
+height: 58.49px;
+border-radius: 13.3px;
+margin-top: 90px;
+background-color: #FF946D;
+}
+.btndesign1{
+    text-align: center; 
+    color: white; 
+    font-family: Poppins;
+font-size: 24px;
+font-weight: 400;
+line-height: 36px;
+letter-spacing: 0em;
+text-align: center;
+
+}
+footer{
+    width: 1400.24px;
+height: 338.24px;
+padding-top: 100px;
+margin-left: 15px;
+border-radius: 23.28px
+}
+.footercls{
+    padding-top: 100px;
+    width: 286px;
+height: 66px;
+margin-left: 5px;
+font-family: Poppins;
+font-size: 18px;
+font-weight: 500;
+line-height: 22px;
+letter-spacing: 0em;
+text-align: left;
+color: #5E6282;
+}
+.footercls2{
+    width: 629.84px;
+height: 204.25px;
+margin-left: 100px;
+
+}
+p{
+    font-family: Poppins;
+font-size: 18px;
+font-weight: 500;
+text-align: left;
+color:#5E6282;
+}
+h3{
+    font-family: Poppins;
+font-size: 25px;
+font-weight: 700;
+text-align: left;
+}
+.footiconcls{
+width: 50px;
+height: 50px;
+border-radius: 25px;
+background-color: white;
+box-shadow: 0px 5px #0000001A;
+}
+.footiconcls2{
+    width: 50px;
+    height: 50px;
+    border-radius: 25px;
+    box-shadow: 0px 5px #0000001A;
+    background-color:conic-gradient(from 180deg at 50% 50%, #B8D2F1 0deg, #F289AA 60deg, #C68BF0 106.09deg, #D164DA 153.75deg, #C963E8 221.25deg, #BFC2E8 258.75deg, #FFC999 288.75deg, #D0D8C9 315deg, #BAD0F1 334.13deg, #CED8CB 358.97deg, rgba(255, 255, 255, 0) 360deg);
+
+}
+.discovercls{
+    width: 280px;
+height: 33px;
+padding-top: 20px;
+font-family: Poppins;
+font-size: 27px;
+font-weight: 500;
+line-height: 33px;
+letter-spacing: 0.005em;
+text-align: left;
+
+}
+.playstorecls{
+    width: 142.32px;
+height: 46.55px;
+margin-top: 15px;
+border-radius: 23.28px;
+background-color: black;
+}
+.playstorecls2{
+    width: 71.35px;
+height: 19.69px;
+}
+.playstorecls3{
+ 
+font-family: Poppins;
+font-size: 10px;
+font-weight: 500;
+color: white;   
+}
+.lastfootcls{
+    font-family: Poppins;
+font-size: 19px;
+padding-top: 20px;
+font-weight: 500;
+line-height: 23px;
+letter-spacing: 0em;
+text-align:center;
+color: rgba(94, 98, 130, 1);
+}
